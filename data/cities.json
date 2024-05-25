@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "6bd0",
+      "cityName": "Hyderabad",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-01-19T14:02:40.194Z",
+      "notes": "",
+      "position": {
+        "lat": "17.26672782352052",
+        "lng": "78.486328125"
+      }
+    },
+    {
+      "id": "4c87",
+      "cityName": "Visakhapatnam",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-04-10T08:36:22.814Z",
+      "notes": "Amazing",
+      "position": {
+        "lat": "17.706828124019555",
+        "lng": "83.32031250000001"
+      }
+    },
+    {
+      "id": "0e72",
+      "cityName": "Bengaluru",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2024-05-15T08:36:45.000Z",
+      "notes": "Super",
+      "position": {
+        "lat": "12.876069959946507",
+        "lng": "77.58544921875001"
+      }
+    },
+    {
+      "id": "6884",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-04-10T08:37:58.592Z",
+      "notes": "Fantastic\n",
+      "position": {
+        "lat": "51.467696956223385",
+        "lng": "-0.087890625"
+      }
+    },
+    {
+      "id": "c9dc",
+      "cityName": "Paris",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-12-15T08:38:21.000Z",
+      "notes": "GG",
+      "position": {
+        "lat": "48.821332549646655",
+        "lng": "2.3730468750000004"
+      }
+    }
+  ]
+}
